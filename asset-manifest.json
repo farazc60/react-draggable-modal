@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-draggable-modal/static/css/main.a581ca74.css",
+    "main.js": "/react-draggable-modal/static/js/main.6d546c50.js",
+    "static/js/453.3b303086.chunk.js": "/react-draggable-modal/static/js/453.3b303086.chunk.js",
+    "index.html": "/react-draggable-modal/index.html",
+    "main.a581ca74.css.map": "/react-draggable-modal/static/css/main.a581ca74.css.map",
+    "main.6d546c50.js.map": "/react-draggable-modal/static/js/main.6d546c50.js.map",
+    "453.3b303086.chunk.js.map": "/react-draggable-modal/static/js/453.3b303086.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a581ca74.css",
+    "static/js/main.6d546c50.js"
+  ]
+}
